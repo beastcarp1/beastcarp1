@@ -25,3 +25,12 @@ I am an IT student with a concentration in Cybersecurity and a Computer Science 
 ### Badges
 
 <a href="https://github.com/beastcarp1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beastcarp1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<zero-md src="https://example.com/markdown.md">
+  <!-- Wrap `style` tags inside `template` -->
+  <template data-append>
+    <style>
+      p { color: red; }
+    </style>
+  </template>
+</zero-md>
