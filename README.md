@@ -5,6 +5,7 @@ IT student
 ----------
 
 I am an IT student with a concentration in Cybersecurity and a Computer Science minor. I love to code and am very interested in mobile devices.
+(I did all of this part in class and the website is not letting me change anything to finish the  requirements you provided)
 
 * 🌍  I'm based in Florence AL
 * 🧠  I'm learning Java and front end web development
