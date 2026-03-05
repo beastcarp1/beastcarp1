@@ -8,7 +8,7 @@ I am an IT student with a concentration in Cybersecurity. I enjoy learning about
 
 * 🌍  I'm based in Hoover, AL
 * 🧠  I'm currently taking Digital Forensics and Human-Computer Interaction
-* I have passed my classes in Front-end Web Development, Database, Network, Python, and a Security+ prep class.
+* 🎓 I have passed my classes in Front-end Web Development, Database, Network, Python, and a Security+ prep class.
 
 ### Skills
 
